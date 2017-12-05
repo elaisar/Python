@@ -1,4 +1,5 @@
 # Eliisa Raal ja Iris-Maria Rohelpuu
+#ruudu joonistamine
 
 # Ülesanne 11
 
