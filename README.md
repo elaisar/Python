@@ -1,0 +1,2 @@
+# Python
+mingi proge asi
